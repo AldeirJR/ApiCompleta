@@ -1,1 +1,1 @@
-Aplicação MVC Core completa  utilizando Identity e Entity Framework Core, Razor Pages 
+Aplicação MVC Core completa  utilizando Identity e Entity Framework Core
